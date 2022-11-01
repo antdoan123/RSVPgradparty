@@ -5,3 +5,7 @@
 .cards{
   @apply flex flex-col bg-neutral-800 px-8 py-8 rounded-3xl ring ring-1 ring-blue-300;
 }
+
+html{
+  background-color: black;
+}

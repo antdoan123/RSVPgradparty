@@ -42,7 +42,7 @@ const Home = () => {
     <div name="home" className='h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 '>
         <div className='max-w-7xl mx-auto flex flex-col items-center justify-center h-full px-4 md:text-row'>
             <div className='flex md:flex-row flex-col items-center justify-center h-full'>
-                <img className="mt-32 h-60" src="./pics.png"></img>
+                <img className="h-60 mt-32 md:mt-0 md:mb-12 rounded-lg" src="./pics.png"></img>
 
                 <div className='text-white px-5 py-4 max-w-md mt-6'>
                     <h2 className='text-xl'><span className='font-bold text-blue-200'>Event: </span>Anthony&apos;s Grad Party</h2>
