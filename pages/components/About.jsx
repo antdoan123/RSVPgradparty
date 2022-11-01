@@ -28,7 +28,7 @@ function About() {
             <h1 className='text-2xl font-bold pb-8'>Cypress/Fullerton College</h1>
             <p className='pb-8'>Starting college was when reality hit me. My first semester at college, I took 19 units while working around 30-35 hours a week just to pay for school.
             It was a time of burnouts, stress, doubts, and a hit of reality. Two of my toughest courses during my first semester was Calculus II and Intro to C++. Walking into these two classes, and 
-            looking around my classmates, I knew I didn't fit in and had already doubted myself. From trying to balance family, love life, and work, I had a hard time focusing on my studies, 
+            looking around my classmates, I knew I didn&apos;t fit in and had already doubted myself. From trying to balance family, love life, and work, I had a hard time focusing on my studies, 
             and I almost failed both my calc II class and C++ class. It was the first time in my life I saw a D on my grades and I remember being so scared to disappoint my dad. However, I was 
             always the guy who do not like keeping secrets and I told him the truth. He was very understanding and told me to stop overthinking it and view it as easy, and that changed my perspective on 
             everything. The more I view school as easy, surprisely everything did became easy. I brought my grades back up, I learned how to balance my life, work and school, and I started to achieve everything that
@@ -36,7 +36,7 @@ function About() {
 
             <h1 className='text-2xl font-bold pb-8'>Cal Poly Pomona</h1>
             <p className='pb-8'>Going to Cal Poly Pomona, COVID hit. I choose this school because it was known for its hands on experience, however with COVID it ruined everything. Or so I thought.
-            While COVID wasn't ideal, it lead me to meet a lot of people through discord. And because we weren't in an actually classroom, no one can judge one another based on how they look. Through 
+            While COVID wasn&apos;t ideal, it lead me to meet a lot of people through discord. And because we weren&apos;t in an actually classroom, no one can judge one another based on how they look. Through 
             messaging and voice chats, I was able to find a group of people who had helped me throughout my CPP years. We motivate each other to do better, keep each other accountable, and learned to work 
             like a team. However, CPP got expensive. I was paying 4x more than at a community college, and thats not including the cost of gas and other expenses. But because of that, it forces me to start side 
             hustles, start buisnesses, learn how to network and market with people online. And at the end of the day, I can proudly say I am graduating with a BS in Computer Engineering with a 3.79 GPA.</p>
