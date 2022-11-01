@@ -16,7 +16,7 @@ function About() {
                 A  little about my journey!
             </div>
 
-          <div className="flex flex-col items-center justify-center">
+          <div className="flex flex-col items-center justify-center pb-8 ">
 
             <h1 className='text-2xl font-bold pb-8'>Buena Park High School</h1>
             <p className='pb-8'>High school was the start of my journey. It was the four years that had the most impact in my life.
