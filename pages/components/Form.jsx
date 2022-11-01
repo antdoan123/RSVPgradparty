@@ -16,7 +16,7 @@ const Form = () => {
                         Reservation
                     </h2>
                 </div>
-                <p className='mx-auto text-lg text-white'>Fill out the fields and hit submit to rsvp</p>
+                <p className='mx-auto text-xl text-white'>Fill out the fields and hit submit to rsvp</p>
   
             </div>
             <div className='lg:w-1/2 md:w-2/3 mx-auto'>

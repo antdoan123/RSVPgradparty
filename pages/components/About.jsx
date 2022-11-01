@@ -12,7 +12,7 @@ function About() {
                     About Me
                 </h2>
             </div>
-            <div>
+            <div className='text-xl'>
                 A  little about my journey!
             </div>
 

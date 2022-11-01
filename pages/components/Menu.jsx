@@ -12,7 +12,7 @@ function Menu() {
                     Menu
                 </h2>
             </div>
-            <div>
+            <div className='text-xl'>
                 Check out the food and drink menu! <span className='text-xs'> * subject to change</span>
             </div>
 
